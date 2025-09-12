@@ -16,6 +16,6 @@ It is **inspired by the Data Hub feature in Football Manager 2024**, bringing si
 
 ## 🌐 Dashboard Preview
 
-👉 [View the Dashboard on Looker Studio](https://lookerstudio.google.com/s/hXJJ1spJ4F4)
+👉 [View the Dashboard on Looker Studio](https://lookerstudio.google.com/s/ih_WwC8xv4M)
 
 ---
