@@ -6,12 +6,14 @@ It is **inspired by the Data Hub feature in Football Manager 2024**, bringing si
 ## 🔍 Data Source
 
 - Data is scraped from **FBref.com**.
+- Initial scraping process was done via [Scrape-FBref-data](https://github.com/parth1902/Scrape-FBref-data) on Google Colab.
+- After scraping, the dataset was slightly modified and cleaned with the help of **ChatGPT**.
 - Coverage includes:  
   - English Premier League  
   - La Liga  
   - Serie A  
-  - Bundesliga
-  - Eredivisie  
+  - Bundesliga 
+  - Eredivisie 
 
 ## 🌐 Dashboard Preview
 
