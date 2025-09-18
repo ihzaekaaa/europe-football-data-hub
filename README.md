@@ -10,8 +10,7 @@ It is **inspired by the Data Hub feature in Football Manager 2024**, bringing si
   - English Premier League  
   - La Liga  
   - Serie A  
-  - Bundesliga  
-  - Ligue 1  
+  - Bundesliga
   - Eredivisie  
 
 ## 🌐 Dashboard Preview
